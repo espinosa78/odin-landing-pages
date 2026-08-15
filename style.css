@@ -7,6 +7,20 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
+:root {
+    --primary-color: #1F2937;
+    --text-first-color: #F9FAF8;
+    --text-second-color: #E5E7EB;
+}
+
 body {
     font-family: Roboto, sans-serif;
+}
+
+.footer {
+    text-align: center;
+    color: var(--text-first-color);
+    background-color: var(--primary-color);
+    padding: 16px 0;
+    font-size: 10px;
 }
