@@ -38,6 +38,37 @@ a {
     font-size: 12px;
 }
 
+.fourth-container {
+    padding: 60px 150px;
+}
+
+.fourth-container-content {
+    background-color: #3882F6;
+    color: var(--text-first-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 26px 56px;
+    border-radius: 6px;
+}
+
+.subtitle {
+    font-size: 12px;
+}
+
+.subtext {
+    font-size: 8px;
+    font-weight: 100;
+}
+
+.btn-fourth {
+    background-color: #3882F6;
+    color: var(--text-first-color);
+    border: 1px solid var(--text-first-color);
+    border-radius: 6px;
+    padding: 4px 20px;
+}
+
 .footer {
     text-align: center;
     color: var(--text-first-color);
