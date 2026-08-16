@@ -85,6 +85,7 @@ a {
     border: 1px solid var(--text-first-color);
     border-radius: 6px;
     padding: 4px 20px;
+    cursor: pointer;
 }
 
 .footer {
